@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="jiantou" unicode="&#58900;" d="M513 128.10000000000002c-9.1 0-18.2 3.5-25.1 10.4L108.4 518c-13.9 13.9-13.9 36.4 0 50.3 13.9 13.9 36.4 13.9 50.3 0L513 214l354.3 354.3c13.9 13.9 36.4 13.9 50.3 0 13.9-13.9 13.9-36.4 0-50.3L538.1 138.5c-6.9-6.9-16-10.4-25.1-10.4z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>

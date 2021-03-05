@@ -1,0 +1,23 @@
+{
+  "id": "2021110",
+  "name": "音乐播放器",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "446722",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "5162041",
+      "name": "分类",
+      "font_class": "fenlei-",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    }
+  ]
+}

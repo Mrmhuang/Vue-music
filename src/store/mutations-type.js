@@ -1,0 +1,8 @@
+export const pushSingerPic = 'pushSingerPic'
+export const setCurrentSinger = 'setCurrentSinger'
+export const SetCurrentSongName = 'SetCurrentSongName'
+export const SetCurrentSingerName = 'SetCurrentSingerName'
+export const SetCurrentSongPic = 'SetCurrentSongPic'
+export const SetCurrentSongId = 'SetCurrentSongId'
+export const SetCurrentSingerSongs = 'SetCurrentSingerSongs'
+export const SetFull = 'SetFull'
